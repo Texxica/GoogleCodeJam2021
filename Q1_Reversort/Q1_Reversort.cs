@@ -4,7 +4,6 @@ namespace Q1_Reversort
 {
     class Q1_Reversort
     {
-
         /**
          * Read input and perform Reversort on given test cases.
         */
