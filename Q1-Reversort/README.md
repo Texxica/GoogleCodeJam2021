@@ -1,4 +1,6 @@
 ﻿# Reversort (7pts)
+ [See Google Challange: Qualification Round, Question one](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c)
+ 
 ## Problem
 _Note: The main parts of the statements of the problems "Reversort" and "Reversort Engineering" are identical, except for the last paragraph. The problems can otherwise be solved independently._
 
