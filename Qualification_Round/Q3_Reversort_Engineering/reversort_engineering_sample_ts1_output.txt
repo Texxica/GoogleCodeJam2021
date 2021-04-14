@@ -1,0 +1,14 @@
+﻿Case #1: 4 3 2 1
+Case #2: 1 2
+Case #3: 7 6 5 4 3 2 1
+Case #4: IMPOSSIBLE
+Case #5: IMPOSSIBLE
+Case #6: 2 4 7 6 5 3 1
+
+// EXTRA: Cost Lists:
+Case #1 Costs: 4 1 1
+Case #2 Costs: 1
+Case #3 Costs: 7 1 1 1 1 1
+Case #4 Costs: -1
+Case #5 Costs: -5
+Case #6 Costs: 7 6 5 4 3 1

@@ -7,36 +7,25 @@ namespace Q2_Moons_and_Umbrellas
 {
     class Q2_Moons_and_Umbrellas
     {
+        // Given X and Y and a string representing the mural
+        // how much does Cody Jamal need to pay if he finishes his mural with min cost? 
+
+        // T = # Test Cases
+        // (X Y S) * T lines
+
+        // find min cost
         static void Main(string[] args)
         {
-            Run();
-        }
-
-        public static void Run()
-        {
-            // CJ pay X
-            // JC pay Y
-
-            // CJ?CC?
-
-            // Given X and Y and a string representing the mural
-            // how much does Cody Jamal need to pay if he finishes his mural with min cost? 
-
-            // T = # Test Cases
-            // X Y S   * T lines
-
-            // find min cost
-
             int T = ReadInt();
 
-            for (int i = 0; i < T; i++)
+            for (int i = 0; i < T; i++) // for each test case
             {
                 var line = ReadStringList();
-                int X = Convert.ToInt32(line[0]);
-                int Y = Convert.ToInt32(line[1]);
-                string S = line[2];
+                int X = Convert.ToInt32(line[0]);   // CJ costs X
+                int Y = Convert.ToInt32(line[1]);   // JC costs Y
+                string S = line[2];                 // string of Cs Js and ?s
 
-                int cost = GetMinCost(X, Y, S);
+                int cost = GetMinCost(X, Y, S);     // find minimum cost
 
                 Console.WriteLine($"Case #{i + 1}: {cost}");
             }
@@ -56,8 +45,9 @@ namespace Q2_Moons_and_Umbrellas
 
         public static List<string> ReadStringList()
         {
-            return (Console.ReadLine()).Split(' ').ToList();
+            return Console.ReadLine().Split(' ').ToList(); // split the string on every space into a list
         }
+
         public static int ReadInt()
         {
             return Convert.ToInt32(Console.ReadLine());
