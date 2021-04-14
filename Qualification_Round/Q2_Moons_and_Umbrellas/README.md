@@ -1,4 +1,4 @@
-﻿﻿# Moons and Umbrellas (5pts, 11pts, 1pts)
+# Moons and Umbrellas (5pts, 11pts, 1pts)
  [See Google Challange: Qualification Round, Question two](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145)
  
  This algorithm passed the first two datasets and scored me 16 points! The coded solution is rather simple.
@@ -22,6 +22,8 @@ This makes the code rather simple, though I did not solve the last "Additional S
 ## Problem Defined By Google
 
 Cody-Jamal is working on his latest piece of abstract art: a mural consisting of a row of waning moons and closed umbrellas. Unfortunately, greedy copyright trolls are claiming that waning moons look like an uppercase C and closed umbrellas look like a J, and they have a copyright on CJ and JC. Therefore, for each time CJ appears in the mural, Cody-Jamal must pay X, and for each time JC appears in the mural, he must pay Y.
+
+![CJ image](https://codejam.googleapis.com/dashboard/get_file/AQj_6U2owO5JXHIGuA09leq_iuziif8xf8j8AWhNKwWXPxK_KhJTriQ5hvecBNuT2vgvaARVhhe_GSKL/moons_and_umbrellas.png)
 
 Cody-Jamal is unwilling to let them compromise his art, so he will not change anything already painted. He decided, however, that the empty spaces he still has could be filled strategically, to minimize the copyright expenses.
 
