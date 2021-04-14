@@ -1,6 +1,8 @@
 ﻿# Reversort (7pts)
  [See Google Challange: Qualification Round, Question one](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c)
  
+ This algorithm passed all the tests and scored me 7 points!
+ 
 ## My Layman's Terms
 
 Essentially this problem is asking you to perform a certain sort method and count the cost associated. The cost is the number of numbers you move around each pass of the algorithm until the array is sorted. 
