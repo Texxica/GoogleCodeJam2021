@@ -5,7 +5,7 @@
  
 ## My Layman's Terms
 
-Essentially this problem is asking you to perform a certain sort method and count the cost associated. The cost is the number of numbers you move around each pass of the algorithm until the array is sorted. 
+Essentially this problem is asking you to perform a certain sort method and count the cost associated. The cost is the count of numbers you move around each pass of the algorithm until the array is sorted. 
 
 The sort method is done by walking through an array from left to right, looking at the number at the current index and then it looks for the minimum number between it and the right side (unsorted) part of the array. When it finds the minimum value, it will reverse all the numbers between the current index and the min value, placing the minimum into the sorted portion of the array and completly reversing the numbers inbetween. Then it will increase to the next spot and find the next lowest number to reverse into place. 
 
