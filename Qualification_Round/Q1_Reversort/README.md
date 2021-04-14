@@ -1,4 +1,4 @@
-﻿# Reversort (7pts)
+# Reversort (7pts)
  [See Google Challange: Qualification Round, Question one](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c)
  
  This algorithm passed all the tests and scored me 7 points!
