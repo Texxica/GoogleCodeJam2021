@@ -15,6 +15,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q3_Reversort_Engineering", "Qualification_Round\Q3_Reversort_Engineering\Q3_Reversort_Engineering.csproj", "{48C2B5BA-7CC9-411B-9E7A-57F378221C39}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Round_1A", "Round_1A", "{9D9D66F8-38F7-43A5-AA6E-59B69A46BE0D}"
+	ProjectSection(SolutionItems) = preProject
+		Round_1A\README.md = Round_1A\README.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q1_AppendSort", "Round_1A\Q1_AppendSort\Q1_AppendSort.csproj", "{1A8DA10C-6C8F-4329-989B-05021CBC8E1C}"
 EndProject
