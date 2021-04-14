@@ -4,8 +4,8 @@ available to choose from.
 
 I scored 41 and called it a night!
 
-## [Q1 Reversort](Q1_Reversort/README.md)
+## [Q1 Reversort](Q1_Reversort)
 
-## [Q2 Moons and Umbrellas](Q2_Moons_and_Umbrellas/README.md)
+## [Q2 Moons and Umbrellas](Q2_Moons_and_Umbrellas)
 
-## [Q3 Reversort Engineering](Q3_Reversort_Engineering/README.md)
+## [Q3 Reversort Engineering](Q3_Reversort_Engineering)
