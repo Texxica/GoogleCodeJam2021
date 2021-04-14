@@ -1,4 +1,4 @@
-﻿﻿# Reversort Engineering (7pts, 11pts)
+# Reversort Engineering (7pts, 11pts)
  [See Google Challange: Qualification Round, Question two](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d12d7)
  
  This algorithm passed the two datasets and scored me 18 points! Which meant I had 41 points total and you only needed 30 to pass the qualification round.
