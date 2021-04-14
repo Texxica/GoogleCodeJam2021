@@ -1,7 +1,13 @@
 ﻿# Reversort (7pts)
  [See Google Challange: Qualification Round, Question one](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c)
  
-## Problem
+## My Layman's Terms
+
+Essentially this problem is asking you to perform a certain sort method and count the cost associated. The cost is the number of numbers you move around each pass of the algorithm. 
+
+The sort method is done by walking through an array from left to right, looking at the number at the current index and then it looks for the minimum number between it and the right side (unsorted) part of the array. When it finds the minimum value, it will reverse all the numbers between the current index and the min value, placing the minimum into the sorted portion of the array and completly reversing the numbers inbetween. Then it will increase to the next spot and find the next lowest number to reverse into place. 
+
+## Problem Defined By Google
 _Note: The main parts of the statements of the problems "Reversort" and "Reversort Engineering" are identical, except for the last paragraph. The problems can otherwise be solved independently._
 
 Reversort is an algorithm to sort a list of distinct integers in increasing order. The algorithm is based on the "Reverse" operation. Each application of this operation reverses the order of some contiguous part of the list.
